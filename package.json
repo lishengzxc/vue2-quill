@@ -1,7 +1,7 @@
 {
   "name": "vue2-quill",
   "description": "vue2-quill",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "eric@lishengcn.cn",
   "scripts": {
     "dev": "webpack-dev-server --open --inline --hot",
