@@ -3,7 +3,8 @@ var webpack = require('webpack')
 
 module.exports = {
   entry: {
-    VueQuill: './src/VueQuill.vue'
+    VueQuill: './src/VueQuill.js',
+    build: './src/main.js'
   },
   output: {
     path: path.resolve(__dirname, './dist'),

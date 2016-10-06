@@ -5,7 +5,9 @@
 </template>
 
 <script>
-import VueQuill from './VueQuill.vue'
+import VueQuill from './VueQuill'
+
+console.log(VueQuill)
 
 export default {
   components: {
