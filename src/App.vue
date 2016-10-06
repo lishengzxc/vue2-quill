@@ -7,8 +7,6 @@
 <script>
 import VueQuill from './VueQuill.js'
 
-console.log(VueQuill)
-
 export default {
   components: {
     VueQuill

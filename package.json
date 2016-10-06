@@ -1,7 +1,7 @@
 {
   "name": "vue2-quill",
   "description": "vue2-quill",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "author": "eric@lishengcn.cn",
   "main": "dist/VueQuill.js",
   "scripts": {
