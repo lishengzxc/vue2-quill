@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import VueQuill from './VueQuill'
+import VueQuill from './VueQuill.js'
 
 console.log(VueQuill)
 

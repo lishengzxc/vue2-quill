@@ -10,7 +10,7 @@ module.exports = {
     path: path.resolve(__dirname, './dist'),
     publicPath: '/dist/',
     filename: '[name].js',
-    target: 'umd'
+    libraryTarget: 'umd'
   },
   resolveLoader: {
     root: path.join(__dirname, 'node_modules'),
